@@ -6,7 +6,7 @@
 %part1: operated in puma560.m
 
 %part2:written in part2Graph.m
-part2Graph()
+%part2Graph()
 
 
 %part3: forward kinematics
@@ -14,7 +14,7 @@ part2Graph()
 forwardKinematics()
 
 %part4 
-inverseKinematics()
+%inverseKinematics()
 
 
 
